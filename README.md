@@ -126,8 +126,6 @@ It does protect against:
 ```bash
  – v1.0
 ```
-```
-Intended as a stable, personal tool
-```
-#### cheers
+
+#### Intended as a stable, personal tool
 ---
