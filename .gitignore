@@ -1,0 +1,5 @@
+vault.db
+vault_backup_*.db
+__pycache__/
+*.pyc
+.env
